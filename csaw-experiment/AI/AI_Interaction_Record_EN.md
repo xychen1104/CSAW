@@ -1,8 +1,5 @@
 # AI Interaction Record
 
-**Project**  
-NYU Tandon coursework based on the CSAW 2026 AI Hardware Attack Challenge qualifier
-
 **Tool**  
 Codex in ChatGPT Work
 
