@@ -11,4 +11,4 @@ and reviewed the baseline waveform in GTKWave.
 
 ## Supporting Record
 
-Relevant prompts and responses: [Insert the transcript or an accessible link here].
+Relevant prompts and responses: [[Insert the transcript or an accessible link here]](https://github.com/xychen1104/CSAW/blob/main/csaw-experiment/AI/AI_Interaction_Record_EN.md).
